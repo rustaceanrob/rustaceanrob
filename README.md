@@ -13,6 +13,6 @@
 - Dependant on Tailwind CSS
 - Firebase user
 
-### Stats :(
+### Stats
 ![Rob's GitHub stats](https://github-readme-stats.vercel.app/api?username=rob-netzke&show_icons=true&theme=radical)
 
