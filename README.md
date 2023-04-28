@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi 👋
 
-<!--
-**rob-netzke/rob-netzke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Live Projects
+- Jott: A web and mobile app to program anywhere using natural language prompts. https://jottcode.com
+- Featherr: A website for GPT-3.5 powered citations, summaries, code, and math solutions: https://featherr.io
 
-Here are some ideas to get you started:
+### About
+- Formally worked as a machine learning engineer
+- Orange pilled Bitcoin maximalist
+- Dependant on Tailwind CSS
+- Firebase user
+- 🔭 I’m currently working on a Nostr client with spam detection. 
+- 🌱 I’m currently learning Stable Diffusion and Dart with Flutter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Rob's GitHub stats](https://github-readme-stats.vercel.app/api?username=rob-netzke&show_icons=true&theme=radical)
+
