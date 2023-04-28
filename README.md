@@ -9,8 +9,8 @@
 
 ### About
 - Formally worked as a machine learning engineer
-- Orange pilled Bitcoin maximalist
-- Dependant on Tailwind CSS
+- Orange-pilled Bitcoin maximalist
+- Dependent on Tailwind CSS
 - Firebase user
 
 ### Stats
