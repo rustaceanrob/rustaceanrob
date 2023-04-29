@@ -8,7 +8,7 @@
 - [Featherr](https://featherr.io): A website for GPT-3.5 powered citations, summaries, code, and math solutions
 
 ### About Me
-- Used to be a machine learning engineer
+- Previous machine learning engineer
 - Orange-pilled Bitcoin maximalist
 - Dependent on Tailwind CSS
 - Firebase user
