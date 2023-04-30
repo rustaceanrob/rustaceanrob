@@ -1,7 +1,7 @@
 ### Hi 👋
 
-- 🔭 I’m working on a Nostr client with spam detection. 
-- 🌱 I’m learning stable diffusion, Dart and Flutter.
+- Working on a Nostr client with spam detection. 
+- Learning stable diffusion, Dart and Flutter.
 
 ### Live Projects
 - [Jott](https://jottcode.com): A web and mobile app to program anywhere using natural language prompts 
@@ -14,5 +14,5 @@
 - Firebase user
 
 ### Stats
-![Rob's GitHub stats](https://github-readme-stats.vercel.app/api?username=rob-netzke&show_icons=true&theme=radical)
+![Rob's GitHub stats](https://github-readme-stats.vercel.app/api?username=xorizon&show_icons=true&theme=radical)
 
