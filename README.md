@@ -1,7 +1,7 @@
 ### Hi 👋
 
-- Working on a Nostr client with spam detection. 
-- Learning stable diffusion, Dart and Flutter.
+- I'm working on a Nostr client with spam detection. 
+- Currently learning stable diffusion, Dart and Flutter.
 
 ### Live Projects
 - [Jott](https://jottcode.com): A web and mobile app to program anywhere using natural language prompts 
