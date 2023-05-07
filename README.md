@@ -1,8 +1,7 @@
 ### Hi 👋
 
-- I'm working on a Nostr client with spam detection. 
-- Currently learning stable diffusion, Dart and Flutter.
-
+- Currently learning stable diffusion and vector databases like Weaviate and Pinecone
+- 
 ### Live Projects
 - [Jott](https://jottcode.com): A web and mobile app to program anywhere using natural language prompts 
 - [Featherr](https://featherr.io): A website for GPT-3.5 powered citations, summaries, code, and math solutions
