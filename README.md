@@ -1,6 +1,6 @@
 ### Hi 👋
 
-- Reading ![Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) 
+- Reading [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) 
 - Currently learning stable diffusion and vector databases like Weaviate and Pinecone
 
 ### Live Projects
