@@ -11,7 +11,6 @@
 - Previous machine learning engineer
 - Orange-pilled Bitcoin maximalist
 - Dependent on Tailwind CSS
-- Firebase user
 
 ### Stats
 ![Rob's GitHub stats](https://github-readme-stats.vercel.app/api?username=xorizon&show_icons=true&theme=radical)
