@@ -1,7 +1,7 @@
 ### Hi 👋
 
 - Reading [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) 
-- Currently learning stable diffusion and vector databases like Weaviate and Pinecone
+- Working on my Redux
 
 ### Live Projects
 - [Jott](https://jottcode.com): A web and mobile app to program anywhere using natural language prompts 
