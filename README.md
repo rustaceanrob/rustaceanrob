@@ -4,6 +4,7 @@
 - Working on an API and mobile app
 
 ### Live Projects
+- Thermal API for Bitcoin BIP32 compliant wallet development
 - [Jott](https://jottcode.com): A web and mobile app to program anywhere using natural language prompts
 
 ### About
