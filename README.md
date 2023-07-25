@@ -1,6 +1,7 @@
 ### About
 - Bitcoin maximalist
 - Tailwind crutch
+- Recently getting Rusty
 - Not gainfully employed
 
 ### Stats
