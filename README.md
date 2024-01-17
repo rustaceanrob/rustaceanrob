@@ -1,2 +1,2 @@
-🦀 Check out my ![blog](https://robnetzke.com)
+🦀 Check out my [blog](https://robnetzke.com)
 
