@@ -1,4 +1,2 @@
-🦀
-
-![Check out my blog](www.rustaceanrob.com)
+🦀 Check out my ![ blog](www.rustaceanrob.com)
 
