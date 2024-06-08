@@ -1,4 +1,4 @@
-🦀 More on my [blog](https://robnetzke.com)
+🦀 Riffs and reference code on my [blog](https://robnetzke.com)
 
 - Building tools for Bitcoin
 - Swift UI hobbyist
