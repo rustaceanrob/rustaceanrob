@@ -20,4 +20,5 @@ git log --oneline --show-signature --no-merges
 Proton mail:
 1A97 AA62 7ECB 9066 3B48 94CE 7DE6 1FF5 3AD9 7271
 ```
+- [Development public key](./publickey.robnetzke@gmail.asc)
 - [Proton mail public key](./publickey.rustaceanrob@protonmail.com.asc)
