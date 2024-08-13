@@ -19,6 +19,5 @@ git log --oneline --show-signature
 
 Proton mail:
 1A97 AA62 7ECB 9066 3B48 94CE 7DE6 1FF5 3AD9 7271
-
-[Link to my full Proton mail public key](./publickey.rustaceanrob@protonmail.com.asc)
 ```
+[Link to my full Proton mail public key](./publickey.rustaceanrob@protonmail.com.asc)
