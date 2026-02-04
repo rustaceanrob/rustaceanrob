@@ -18,4 +18,3 @@ To check I signed the most recent commit in a project:
 git show --show-signature --no-merges
 ```
 - [Development public key](./publickey.robnetzke@gmail.asc)
-- [Proton mail public key](./publickey.rustaceanrob@protonmail.com.asc)
